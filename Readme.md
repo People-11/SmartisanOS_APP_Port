@@ -6,8 +6,9 @@
 
 移植终究是有局限的，如果你想要新功能/更好的体验，推荐换用以下作品：
 
-[音乐](https://github.com/Mangi-11/SmartisanMusic-Revived)
-[天气](https://github.com/Mangi-11/SmartisanWeather-Revived)
+[音乐](https://github.com/Mangi-11/SmartisanMusic-Revived) - 
+[天气](https://github.com/Mangi-11/SmartisanWeather-Revived) - 
+[时钟](https://github.com/Mangi-11/SmartisanClock-Revived)
 
 ## 贱不贱啊
 
